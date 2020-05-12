@@ -4,6 +4,23 @@ I am a Business major at the University of Oregon. I am pursuing a minor in CIT.
 
 ### CIT 281 Projects
 
-- Project 1 (learned about for of loops, the forEach method, and dice rolling)
-- [Project 2](https://uo-cit.github.io/project-2-mtullo281/) (learned about APIs)
-- Project 3 (learned about github user pages)
+- Project 2 Repo
+  Repo start-state:
+
+README.md
+.gitignore
+gallery.html, gallery.css, gallery.js
+281 Project 2 Learning Outcomes
+A web API or Application Programming Interface is an API accessed using the HTTP protocol.
+Web APIs often deliver data formatted as JSON.
+A web API can be accessed programmatically using JavaScript.
+The API documentation must first be consulted in order to understand how the API works and what it returns.
+Some web APIs are public, and others require an access key. Flickr offers several public APIs.
+281 Project 1 Learning Outcomes
+Basic Unix Shell commands
+Install and Configure Git using the Unix Shell
+Github overview
+Basic Git Commands (add, commit, push, clone)
+Github overview
+Markdown language for README files
+JavaScript ES6+ features
